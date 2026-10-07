@@ -1,0 +1,6 @@
+{
+  "name": "HireTrack",
+  "description": "Full-Stack Job Application Management System with dashboard analytics, interview tracking, and application workflows.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
